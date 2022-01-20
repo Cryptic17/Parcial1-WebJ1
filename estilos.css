@@ -1,0 +1,94 @@
+    table, th{
+		border: inset;
+		border-collapse: collapse;
+		padding: 10px;
+	}
+	td{
+		border-collapse: collapse;
+		padding: 11.8px;
+	}
+
+	.tabladatos{
+		float: right;
+		width: 100%;
+	}
+	.tablaprueba{
+		border: none;
+		width: ;
+	}
+
+
+	thead{
+		background-color: #B6A213;
+		border-bottom: solid 4px #092D4D;
+		color: white;
+	}
+
+	body {
+  		font-family: system-ui;
+  		background: #C5FCA5;
+  		color: black;
+ 	 	text-align: center;
+	}
+
+	.form{
+		align-items: center;
+		justify-content: center;
+	}
+
+	.form__input{
+			border: 1px background-color: #DDDDDD;
+			background: #d3d3d3;
+			font-family: inherit;
+			font-size: inherit;
+			color:black;
+			border-radius: 0.2 rem;
+			border: 1px solid #5B6BF7;
+			float: left;
+		
+	
+		}
+
+	
+	img {
+ 		height: 25px;
+		 width: 25px;
+ 		object-fit: contain;
+ 		
+
+    	
+		}
+
+	.princi{
+		margin:  0 auto;
+		background: white;
+		width: 250px;
+		height: 450px;
+		border: 1px solid;
+
+	}
+
+	.extra{
+		margin: 0 auto;
+		background-color: #84B2FA;
+		width: 250px;
+		height: 20px;
+		font-size: 15px;
+		
+
+	}
+
+	.formu{
+		width: 100%;
+		height: 10px;
+		max-width: 400px;
+		position: relative;
+
+	}
+	.botong{
+		background-color: #FA8484;
+		width: 53px;
+		height: 25px;
+		border: none;
+	}
+	
